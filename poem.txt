@@ -1,4 +1,4 @@
--main-
+-mains-
 A
 B
 C
@@ -7,7 +7,7 @@ E
 F
 G
 =============
--branch-
+-branches-
 H
 I
 J
