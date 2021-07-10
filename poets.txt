@@ -2,5 +2,5 @@ jan
 feb
 
 apr
-jun
+june
 aug
