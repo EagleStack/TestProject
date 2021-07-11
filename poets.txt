@@ -6,4 +6,4 @@ may
 june
 augusth
 sep
-y=45
+y=40
